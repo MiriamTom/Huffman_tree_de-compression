@@ -1,4 +1,5 @@
 Huffman Compression and Decompression
+
 This repository contains C++ code for Huffman compression and decompression algorithms. Huffman coding is a widely used algorithm for lossless data compression. It assigns variable-length codes to input characters, with shorter codes assigned to more frequent characters.
 
 Features:
